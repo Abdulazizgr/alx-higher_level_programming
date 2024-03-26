@@ -1,4 +1,4 @@
-SQL Introduction
+#SQL Introduction
 This repository contains SQL scripts for basic database management tasks. Each script performs a specific action on the MySQL server.
 
 List of SQL Scripts
